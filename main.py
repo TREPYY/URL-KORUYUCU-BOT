@@ -53,4 +53,4 @@ async def on_guild_update(before, after):
             except Exception as e:
                 print("URL geri alınamadı:", e)
 
-bot.run("buraya bot tokenini ya")
+bot.run("TOKEN")
